@@ -1,0 +1,4 @@
+﻿  wyzazanie.cpp
+e:\c++\p4\p4\wyzazanie.cpp(22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  P4.vcxproj -> E:\C++\P4\x64\Debug\P4.exe
+  P4.vcxproj -> E:\C++\P4\x64\Debug\P4.pdb (Partial PDB)

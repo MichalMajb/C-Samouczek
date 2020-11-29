@@ -1,0 +1,3 @@
+﻿  P6.cpp
+e:\c++\p6\p6\p6.cpp(5): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  P6.vcxproj -> E:\C++\P6\Debug\P6.exe
