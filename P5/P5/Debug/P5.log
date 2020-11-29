@@ -1,0 +1,9 @@
+﻿  P5.cpp
+e:\c++\p5\p5\p5.cpp(16): error C2039: „min_element”: Nie jest składową „std”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ctime(17): note: zobacz deklarację „std”
+  e:\c++\p5\p5\p5.cpp(26): note: zobacz odwołanie do funkcji szablon; wystąpienie „void Selection_sort<int*>(It,It)” jest kompilowane
+          with
+          [
+              It=int *
+          ]
+e:\c++\p5\p5\p5.cpp(16): error C3861: "min_element": identyfikatora nie odnaleziono
