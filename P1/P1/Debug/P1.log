@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  P1.cpp
+e:\c++\p1\p1\p1.cpp(10): error C2039: "cout": nie jest elementem członkowskim "std"
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stddef.h(18): note: zobacz deklarację „std”
+e:\c++\p1\p1\p1.cpp(10): error C2065: "cout": niezadeklarowany identyfikator
